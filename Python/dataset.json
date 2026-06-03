@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "68",
+      "goal": "Marathon training - carbohydrate loading with 3000+ calorie intake and hydration strategy",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan totals 3000+ calories with emphasis on carbohydrates (55-60% of total intake)",
+      "Includes hydration strategy with specific fluid intake recommendations throughout the day",
+      "Compact format presenting all meals and snacks for a single day",
+      "Meals are practical and suitable for an athlete in active training"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-intensity endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration strategy"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "82 kg",
+      "goal": "Strength and power development with moderate caloric surplus for muscle gain",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly 1 day with 4-5 meals",
+      "Total daily protein is at least 160g (approximately 1.95g per kg bodyweight)",
+      "Includes pre-workout and post-workout meals strategically timed around training",
+      "Compact format with meals listed concisely without excessive detail"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power sport athlete (weightlifter) requiring moderate calories with high protein intake and specific meal timing around workout windows"
+  },
+  {
+    "prompt_inputs": {
+      "height": "183",
+      "weight": "78",
+      "goal": "Optimize energy levels for afternoon soccer match with proper recovery nutrition",
+      "restrictions": "Vegetarian, lactose intolerant"
+    },
+    "solution_criteria": [
+      "Meal plan spans full day with 3+ meals/snacks strategically timed around afternoon match",
+      "Includes pre-match meal (2-3 hours before), match-day hydration/carbs, and post-match recovery nutrition",
+      "All meals respect vegetarian and lactose-free restrictions",
+      "Compact format with clear timing and portion guidance"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific constraint (professional soccer player with afternoon match) requiring energy management across pre-competition, competition, and recovery phases within the same day"
+  }
+]

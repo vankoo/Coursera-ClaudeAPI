@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# One-Day Marathon Training Meal Plan\n**Athlete: 178 cm, 68 kg | Goal: Carbohydrate Loading (3000+ calories)**\n\n---\n\n## Daily Nutritional Targets\n- **Total Calories:** 3,200 kcal\n- **Protein:** 120g (15%)\n- **Carbohydrates:** 480g (60%)\n- **Fat:** 80g (25%)\n- **Hydration:** 3-4 liters water + electrolyte drinks\n\n---\n\n## BREAKFAST (7:00 AM)\n**Carb-Loading Oatmeal Bowl**\n- Rolled oats: 80g\n- Banana: 150g\n- Honey: 30g\n- Whole milk: 250ml\n- Almonds: 20g\n- Granola: 30g\n\n| Macro | Amount |\n|-------|--------|\n| Calories | 650 |\n| Protein | 20g |\n| Carbs | 105g |\n| Fat | 18g |\n\n**Hydration:** 500ml water + electrolyte drink\n\n---\n\n## MID-MORNING SNACK (10:00 AM)\n**Energy Boost**\n- Bagel (plain): 90g\n- Peanut butter: 30g\n- Honey: 15g\n- Apple: 180g\n- Sports drink (6% carbs): 500ml\n\n| Macro | Amount |\n|-------|--------|\n| Calories | 520 |\n| Protein | 18g |\n| Carbs | 82g |\n| Fat | 16g |\n\n**Hydration:** 500ml water\n\n---\n\n## LUNCH (1:00 PM)\n**Carb-Rich Pasta with Protein**\n- Cooked white pasta: 250g\n- Grilled chicken breast: 150g\n- Marinara sauce: 150g\n- Olive oil: 10ml\n- Parmesan cheese: 20g\n- Side salad with dressing: 100g\n- Whole wheat bread: 60g\n\n| Macro | Amount |\n|-------|--------|\n| Calories | 850 |\n| Protein | 50g |\n| Carbs | 115g |\n| Fat | 20g |\n\n**Hydration:** 500ml water\n\n---\n\n## PRE-TRAINING SNACK (3:30 PM)\n*Eat 30-45 minutes before running*\n- Rice cakes: 50g\n- Jam: 30g\n- Banana: 120g\n- Sports drink (6% carbs): 500ml\n\n| Macro | Amount |\n|-------|--------|\n| Calories | 380 |\n| Protein | 6g |\n| Carbs | 90g |\n| Fat | 2g |\n\n**Hydration:** 500ml water\n\n---\n\n## DINNER (7:00 PM)\n**Post-Run Recovery Meal**\n- Grilled salmon fillet: 180g\n- Sweet potato (roasted): 200g\n- Steamed broccoli: 150g\n- Brown rice: 150g\n- Olive oil: 15ml\n- Lemon: 10g\n\n| Macro | Amount |\n|-------|--------|\n| Calories | 650 |\n| Protein | 40g |\n| Carbs | 75g |\n| Fat | 20g |\n\n**Hydration:** 500ml water\n\n---\n\n## EVENING SNACK (9:00 PM)\n**Recovery Snack**\n- Greek yogurt: 200g\n- Granola: 40g\n- Blueberries: 80g\n- Honey: 20g\n\n| Macro | Amount |\n|-------|--------|\n| Calories | 250 |\n| Protein | 18g |\n| Carbs | 35g |\n| Fat | 4g |\n\n**Hydration:** 250ml water\n\n---\n\n## DAILY TOTALS\n\n| Nutrient | Amount | Target | Status |\n|----------|--------|--------|--------|\n| **Calories** | 3,300 kcal | 3,000+",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "68",
+        "goal": "Marathon training - carbohydrate loading with 3000+ calorie intake and hydration strategy",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan totals 3000+ calories with emphasis on carbohydrates (55-60% of total intake)",
+        "Includes hydration strategy with specific fluid intake recommendations throughout the day",
+        "Compact format presenting all meals and snacks for a single day",
+        "Meals are practical and suitable for an athlete in active training"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a high-intensity endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration strategy"
+    },
+    "score": 8,
+    "reasoning": "The solution comprehensively addresses all mandatory requirements with precise daily caloric totals, detailed macronutrient breakdowns, and specific meals with exact portions and timing. The carbohydrate loading strategy is well-executed at 60% of intake, and the hydration plan is practical and distributed throughout the day. The format is compact and athlete-appropriate with realistic, practical foods. The primary deficiency is the incomplete final table, which is a presentation issue rather than a content failure. All core criteria are met effectively."
+  },
+  {
+    "output": "# One-Day Meal Plan for Strength & Power Development\n\n## Daily Targets\n- **Calories: 3,200 kcal**\n- **Protein: 164g** (2.0g per kg bodyweight)\n- **Carbohydrates: 420g** (5.1g per kg bodyweight)\n- **Fat: 107g** (1.3g per kg bodyweight)\n\n---\n\n## Breakfast (7:00 AM)\n**Oatmeal Power Bowl**\n- Rolled oats: 80g\n- Whole eggs: 2 (100g)\n- Egg whites: 3 (90g)\n- Banana: 150g\n- Almond butter: 20g\n- Honey: 15g\n\n| Macronutrient | Amount |\n|---|---|\n| Calories | 650 |\n| Protein | 28g |\n| Carbs | 78g |\n| Fat | 18g |\n\n---\n\n## Mid-Morning Snack (10:00 AM)\n**Greek Yogurt & Granola**\n- Greek yogurt (0% fat): 200g\n- Granola: 50g\n- Blueberries: 80g\n- Honey: 10g\n\n| Macronutrient | Amount |\n|---|---|\n| Calories | 320 |\n| Protein | 22g |\n| Carbs | 48g |\n| Fat | 2g |\n\n---\n\n## Lunch (1:00 PM)\n**Grilled Chicken with Rice & Vegetables**\n- Chicken breast (skinless): 200g\n- White rice (cooked): 250g\n- Broccoli: 150g\n- Olive oil: 10g\n- Salt & pepper to taste\n\n| Macronutrient | Amount |\n|---|---|\n| Calories | 750 |\n| Protein | 50g |\n| Carbs | 90g |\n| Fat | 12g |\n\n---\n\n## Pre-Workout Snack (3:30 PM)\n**Rice Cakes with Jam & Protein**\n- Rice cakes: 50g\n- Strawberry jam: 30g\n- Whey protein powder: 30g (mixed with water)\n\n| Macronutrient | Amount |\n|---|---|\n| Calories | 280 |\n| Protein | 28g |\n| Carbs | 42g |\n| Fat | 1g |\n\n---\n\n## Post-Workout Meal (5:30 PM)\n**Salmon with Sweet Potato**\n- Salmon fillet: 180g\n- Sweet potato (baked): 280g\n- Asparagus: 120g\n- Lemon juice: 5g\n\n| Macronutrient | Amount |\n|---|---|\n| Calories | 650 |\n| Protein | 32g |\n| Carbs | 82g |\n| Fat | 18g |\n\n---\n\n## Dinner (8:00 PM)\n**Lean Beef with Pasta**\n- Lean ground beef (90/10): 180g\n- Whole wheat pasta (cooked): 150g\n- Marinara sauce: 100g\n- Parmesan cheese: 15g\n\n| Macronutrient | Amount |\n|---|---|\n| Calories | 550 |\n| Protein | 44g |\n| Carbs | 60g |\n| Fat | 16g |\n\n---\n\n## Daily Totals\n| Macronutrient | Amount | Target | Status |\n|---|---|---|---|\n| **Calories** | **3,200** | **3,200** | \u2713 |\n| **Protein** | **204g** | **164g** | \u2713 +40g |\n| **Carbs** | **400g** | **420g** | \u2713 -20g |\n| **Fat** | **67g** | **107g** | \u2713 -40g |\n\n---\n\n## Notes for the Athlete\n- **Hydration**: Drink 3-4 liters of water throughout the day\n- **Timing**: Post-",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "82 kg",
+        "goal": "Strength and power development with moderate caloric surplus for muscle gain",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan spans exactly 1 day with 4-5 meals",
+        "Total daily protein is at least 160g (approximately 1.95g per kg bodyweight)",
+        "Includes pre-workout and post-workout meals strategically timed around training",
+        "Compact format with meals listed concisely without excessive detail"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a strength/power sport athlete (weightlifter) requiring moderate calories with high protein intake and specific meal timing around workout windows"
+    },
+    "score": 7,
+    "reasoning": "The solution successfully meets all three mandatory requirements with precise daily totals, detailed macronutrient breakdowns, and meals with exact portions and timing. The meal plan appropriately supports strength development with high protein intake and strategic pre/post-workout nutrition. However, it violates the secondary criterion of being 4-5 meals (provides 6), and the macronutrient distribution deviates from targets despite hitting total calories. The incomplete notes section is a minor presentation issue. These deficiencies prevent a perfect score but don't constitute mandatory requirement violations."
+  },
+  {
+    "output": "# One-Day Meal Plan for Athletic Performance & Recovery\n**Vegetarian, Lactose-Intolerant Athlete**\n\n---\n\n## Daily Nutritional Summary\n- **Estimated Daily Calories:** 3,200 kcal\n- **Protein:** 130g (16% of calories)\n- **Carbohydrates:** 420g (53% of calories)\n- **Fat:** 85g (24% of calories)\n\n*Calculations based on 78kg body weight with afternoon soccer match requiring elevated energy intake*\n\n---\n\n## BREAKFAST (7:00 AM)\n**Oatmeal Power Bowl**\n- Rolled oats: 80g\n- Plant-based milk (almond/oat): 250ml\n- Banana: 120g\n- Almond butter: 30g\n- Chia seeds: 15g\n\n| Nutrient | Amount |\n|----------|--------|\n| Calories | 520 kcal |\n| Protein | 18g |\n| Carbs | 68g |\n| Fat | 18g |\n\n---\n\n## MID-MORNING SNACK (10:00 AM)\n**Energy Fuel Snack**\n- Whole wheat toast: 50g (2 slices)\n- Hummus: 40g\n- Cherry tomatoes: 100g\n- Mixed berries: 150g\n\n| Nutrient | Amount |\n|----------|--------|\n| Calories | 380 kcal |\n| Protein | 12g |\n| Carbs | 58g |\n| Fat | 12g |\n\n---\n\n## LUNCH (1:00 PM)\n**Mediterranean Quinoa Bowl**\n- Cooked quinoa: 200g\n- Chickpeas (canned, drained): 150g\n- Spinach: 80g\n- Bell pepper (red): 120g\n- Cucumber: 100g\n- Olive oil: 15ml\n- Lemon juice: 30ml\n- Sea salt & pepper to taste\n\n| Nutrient | Amount |\n|----------|--------|\n| Calories | 650 kcal |\n| Protein | 28g |\n| Carbs | 88g |\n| Fat | 22g |\n\n---\n\n## PRE-MATCH SNACK (3:00 PM)\n**Quick Energy Boost** *(2 hours before match)*\n- Dates (pitted): 80g (4-5 pieces)\n- Sunflower seed butter: 25g\n- Rice cakes: 30g\n\n| Nutrient | Amount |\n|----------|--------|\n| Calories | 420 kcal |\n| Protein | 12g |\n| Carbs | 52g |\n| Fat | 18g |\n\n---\n\n## DINNER/POST-MATCH RECOVERY (8:00 PM)\n**Lentil & Sweet Potato Curry**\n- Red lentils (cooked): 180g\n- Sweet potato: 250g\n- Coconut milk (light): 200ml\n- Onion: 80g\n- Garlic: 10g\n- Ginger: 5g\n- Turmeric & cumin: 3g\n- Olive oil: 15ml\n- Brown rice (cooked): 150g\n\n| Nutrient | Amount |\n|----------|--------|\n| Calories | 680 kcal |\n| Protein | 28g |\n| Carbs | 98g |\n| Fat | 15g |\n\n---\n\n## EVENING RECOVERY (Optional - 10:00 PM)\n**Sleep-Friendly Recovery Drink**\n- Soy milk (unsweetened): 250ml\n- Hemp seeds: 20g\n- Banana: 80g\n\n| Nutrient | Amount |\n|----------|--------|\n| Calories | 170 kcal |\n| Protein | 10g |\n| Carbs | 18g |\n| Fat | 6g |\n\n---\n\n## Key Nutritional Benefits for Match Day:\n\n\u2713 **Carbohydrate Loading:** 420g supports sustained energy for afternoon performance  \n\u2713 **Protein Distribution:** Spread throughout day for muscle recovery (8",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "183",
+        "weight": "78",
+        "goal": "Optimize energy levels for afternoon soccer match with proper recovery nutrition",
+        "restrictions": "Vegetarian, lactose intolerant"
+      },
+      "solution_criteria": [
+        "Meal plan spans full day with 3+ meals/snacks strategically timed around afternoon match",
+        "Includes pre-match meal (2-3 hours before), match-day hydration/carbs, and post-match recovery nutrition",
+        "All meals respect vegetarian and lactose-free restrictions",
+        "Compact format with clear timing and portion guidance"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a sport-specific constraint (professional soccer player with afternoon match) requiring energy management across pre-competition, competition, and recovery phases within the same day"
+    },
+    "score": 8,
+    "reasoning": "The solution successfully addresses all three mandatory requirements: it provides a daily caloric total (3,200 kcal), complete macronutrient breakdown (130g protein, 420g carbs, 85g fat), and exact food portions with precise timing for all meals and snacks. The meal plan spans the full day with 6 eating occasions strategically positioned around the afternoon soccer match, including a pre-match snack 2 hours before play and post-match recovery nutrition. All meals strictly adhere to vegetarian and lactose-free restrictions, using appropriate substitutes (plant-based milk, coconut milk, legumes for protein). The format is compact and well-organized with clear timing and nutritional tables. The primary deficiency is the truncated ending and absence of hydration recommendations, which are secondary criteria issues rather than mandatory requirement violations. The solution meets all stated criteria effectively."
+  }
+]
